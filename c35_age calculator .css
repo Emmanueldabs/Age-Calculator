@@ -1,0 +1,38 @@
+.container{
+    font-style: cursive;
+    color: rgb(255, 255, 255);
+    
+}
+.title{
+font-size: 70px;
+color: rgb(241, 239, 239);
+}
+body{
+background-image: url("https://www.universityofcalifornia.edu/sites/default/files/night-sky-purple.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+label,#Date,#Month,#Year{
+    color: rgb(77, 77, 77);
+    display: block;
+    font-size: 35px;
+
+}
+#Cal{
+ color: darkorchid;
+ height: 75px;
+ width: 250px;
+ font-size: 50px;
+
+}
+.manu{
+    height: 100px;
+    width: 200px;
+}
+#result{
+    font-size: 25px;
+    color: darkcyan;
+    font-weight: bold;
+    font-family: sans-serif;
+    
+}
